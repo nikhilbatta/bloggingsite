@@ -1,0 +1,22 @@
+h1.start{
+  color:brown;
+  font-family: cursive, fantasy,sans-serif;
+}
+p.start{
+  color:red;
+  font-family: fantasy;
+}
+.intro{
+  color: blue;
+  font-family:sans-serif;
+  /* height: 80px;
+  width: 80px; */
+}
+h1.notebook {
+  color: green;
+  font-family: fantasy;
+}
+.para{
+  color: red;
+  font-family: cursive;
+}
